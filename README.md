@@ -1,0 +1,2 @@
+# Backend---Python-1
+En las sesiones de Django hemos visto desde la instalación hasta crear nuestra primer aplicación usando solamente el framework de Django.  En esta actividad debemos de crear nuestro aplicación de Django, cambiar la contraseña del administrador y correr por primera vez la aplicación y el administrador.    Toma captura de pantalla de:  1.- El cambio de la contraseña del administrador  2.- Tu aplicación corriendo  3.- Tu administrador corriendo    **Al agregar tu solución puedes subir varias imagenes
