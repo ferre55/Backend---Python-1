@@ -12,7 +12,7 @@
   <li>django-admin startproject skills</li>
 </ol>
 
-![alt text](https://github.com/ferre55/Fundamentos-de-bases-de-datos/blob/main/escolaar1.drawio.png)
+![alt text](https://github.com/ferre55/Backend---Python-1/blob/main/DJANGO_RUNSERVER.png)
 
 
 
