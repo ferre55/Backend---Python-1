@@ -9,6 +9,7 @@
   <li>Abrir carpeta desde visual studio code</li>
   <li>Crear el entorno virtual: python3 -m venv virtual</li>
   <li>Activar el entorno virtual:virtual\Scripts\Activate.ps1</li>
+  <li>Instalar Django:  python -m pip install Django</li>
   <li>Crear proyecto: django-admin startproject skills</li>
   <li>Correr servidor:  python manage.py runserver</li>
   <li>Agregar Admin: (http://127.0.0.1:8000/admin/login/?next=/admin/ )</li>
