@@ -9,7 +9,7 @@
   <li>Abrir carpeta desde visual studio code</li>
   <li>Crear el entorno virtual: python3 -m venv virtual</li>
   <li>Activar el entorno virtual:virtual\Scripts\Activate.ps1</li>
-  <li>django-admin startproject skills</li>
+  <li>Crear proyecto: django-admin startproject skills</li>
 </ol>
 
 ![alt text](https://github.com/ferre55/Backend---Python-1/blob/main/DJANGO_RUNSERVER.png)
