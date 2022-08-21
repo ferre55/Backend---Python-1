@@ -33,5 +33,7 @@
   <li>Crear archivo urls.py</li>
 </ol>
 
+![alt text](https://github.com/ferre55/Backend---Python-1/blob/main/Django%20images/app1.png)
+
 
 
